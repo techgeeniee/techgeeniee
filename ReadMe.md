@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="[https://your-logo-url-here](https://www.techgeeniee.com/wp-content/uploads/2023/10/logo4.png)" alt="Tech Geeniee Logo">
-</p>
-
 <h1 align="center">🚀 Welcome to Tech Geeniee's GitHub Universe 🚀</h1>
 
 <p align="center">
@@ -23,9 +19,16 @@
 </p>
 
 <p align="center">
+  🌐 **Contact Us:**  
+  - [Visit our website](http://www.techgeeniee.com)
+  - ✉️ Email: [hr@techgeeniee.com](mailto:hr@techgeeniee.com)
+</p>
+
+<p align="center">
   🚀 Explore our repositories to witness the sorcery behind open-source projects and cutting-edge contributions. Stay enchanted by connecting with us on social media.
 </p>
 
 <p align="center">
   ✨ Let's conjure greatness together. Reach out if you seek to be part of the magic! ✨
 </p>
+This format now includes contact information for your website and email address, making it easy for visitors to reach out to Tech Geeniee. Again, you can replace "https://your-logo-url-here" with the actual URL of your company's logo for a personalized touch.
