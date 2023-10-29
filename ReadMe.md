@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-logo-url-here" alt="Tech Geeniee Logo">
+  <img src="[https://your-logo-url-here](https://www.techgeeniee.com/wp-content/uploads/2023/10/logo4.png)" alt="Tech Geeniee Logo">
 </p>
 
 <h1 align="center">🚀 Welcome to Tech Geeniee's GitHub Universe 🚀</h1>
