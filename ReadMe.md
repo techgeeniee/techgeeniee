@@ -31,4 +31,4 @@
 <p align="center">
   ✨ Let's conjure greatness together. Reach out if you seek to be part of the magic! ✨
 </p>
-This format now includes contact information for your website and email address, making it easy for visitors to reach out to Tech Geeniee. Again, you can replace "https://your-logo-url-here" with the actual URL of your company's logo for a personalized touch.
+<img src="https://www.techgeeniee.com/wp-content/uploads/2023/10/logo4.png" alt="Tech Genie">
