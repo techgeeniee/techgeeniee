@@ -31,4 +31,7 @@
 <p align="center">
   ✨ Let's conjure greatness together. Reach out if you seek to be part of the magic! ✨
 </p>
+<p align="center">
 <img src="https://www.techgeeniee.com/wp-content/uploads/2023/10/logo4.png" alt="Tech Genie">
+</p>
+
